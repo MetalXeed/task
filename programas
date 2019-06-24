@@ -1,3 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Guimarey's Website</title>
+
+    <!-- attach our stylesheet -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <!-- the header -->
+    <header>
+
+        <!-- our main logo -->
+        <a id="logo" href="index.html">
+            <img src="img/avatar.jpeg" alt="Logo">
+            <span>My Website</span>
+        </a>
+
+        <!-- main navigation links -->
+        <nav>
+            <ul>
+                <li><a href="#">Documents</a></li>
+                <li><a href="#">Programs</a></li>
+                <!--<li><a href="#">Pricing</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Sign Up</a></li>-->
+            </ul>
+        </nav>
+
+    </header>
+
+    <!-- the content -->
+    <main>
+
+        <!-- features section-->
+        <div class="site-section">
+        <div class="site-section-inside">
+
+            <div class="section-header">
+                <h2>Download Links</h2>
+            </div>
+
+            <div class="feature-box">
+                <img src="img/like.png" alt="Easy to Use">
+                <h5>Sequaoia</h5>
+                <p>Esquema de la reparticion del espacio de disco</p>
+            </div>
+
+            <div class="feature-box">
+                <img src="img/faces.png" alt="Fun to Use">
+                <h5>KMS</h5>
+                <p>Activa Window y Office</p>
+            </div>
+
+            <div class="feature-box">
+                <img src="img/heart.png" alt="Fun to Use">
+                <h5>SIW</h5>
+                <p>Ver toda la informacion del equipo</p>
+            </div>
+
+        </div>
+        </div>
+        -->
+        <!-- testimonials section
+        <div class="site-section site-section-secondary">
+        <div class="site-section-inside">
+
+            <div class="section-header">
+                <h2>What the people say</h2>
+            </div>
+
+            <div class="testimonial-box">
+                <div class="testimonial-content">
+                    Their service is by far the most influential I've ever seen.
+                </div>
+                <div class="testimonial-author">
+                    <img src="img/david.jpg" alt="David East">
+                    <h5>El Papasito</h5>
+                    <span>King of FireHole</span>
+                </div>
+            </div>
+
+            <div class="testimonial-box">
+                <div class="testimonial-content">
+                    Their service is by far the most influential I've ever seen.
+                </div>
+                <div class="testimonial-author">
+                    <img src="img/holly.jpg" alt="Holly Lloyd">
+                    <h5>Holly Lloyd</h5>
+                    <span>Queen of Crotch</span>
+                </div>
+            </div>
+
+            <div class="testimonial-box">
+                <div class="testimonial-content">
+                    Their service is by far the most influential I've ever seen.
+                </div>
+                <div class="testimonial-author">
+                    <img src="img/brad.jpg" alt="Brad Green">
+                    <h5>Him Himself</h5>
+                    <span>Actually retarded</span>
+                </div>
+            </div>
+
+        </div>
+        </div>
+        -->
+    </main>
+
+    <!-- the footer -->
+    <footer>
+        <img src="img/avatar.jpeg" alt="Footer Logo">
+        <span>My Website<br>Copyright &copy; 2016-3010 </span>
+    </footer>
+
+</body>
+</html>
 
 
 <!-- Programs file -->
